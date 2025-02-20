@@ -71,7 +71,7 @@ This system has been built using **C#** as the primary programming language, wit
 
 Below is the Use Case Diagram for the Population Reporting System:
 
-![Use Case Diagram](assets/images/Use%20Case%20Diagram.png)
+![Use Case Diagram](main/Use%20Case%20Diagram.png)
 ## Description
 This diagram illustrates the relationships between actors and the system's use cases.
 
@@ -79,7 +79,7 @@ This diagram illustrates the relationships between actors and the system's use c
 
 Below is the Activity Diagram for the Population Reporting System:
 
-![Activity Diagram](assets/images/Activity%20Diagram.png)
+![Activity Diagram](main/Activity%20Diagram.png)
 
 ### Contribution Guidelines
 - Fork the repository to contribute.
