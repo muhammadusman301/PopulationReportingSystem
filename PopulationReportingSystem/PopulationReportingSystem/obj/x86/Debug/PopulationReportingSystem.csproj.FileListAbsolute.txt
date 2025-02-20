@@ -2,3 +2,8 @@ C:\Users\Mega Providers\Desktop\Project\PopulationReportingSystem\PopulationRepo
 C:\Users\Mega Providers\Desktop\Project\PopulationReportingSystem\PopulationReportingSystem\bin\Debug\PopulationReportingSystem.pdb
 C:\Users\Mega Providers\Desktop\Project\PopulationReportingSystem\PopulationReportingSystem\obj\x86\Debug\PopulationReportingSystem.exe
 C:\Users\Mega Providers\Desktop\Project\PopulationReportingSystem\PopulationReportingSystem\obj\x86\Debug\PopulationReportingSystem.pdb
+C:\Users\Mega Providers\Desktop\Project\PopulationReportingSystem\PopulationReportingSystem\obj\x86\Debug\PopulationReportingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Mega Providers\Desktop\Project\PopulationReportingSystem\PopulationReportingSystem\bin\Debug\PopulationReportingSystem.exe.manifest
+C:\Users\Mega Providers\Desktop\Project\PopulationReportingSystem\PopulationReportingSystem\bin\Debug\PopulationReportingSystem.application
+C:\Users\Mega Providers\Desktop\Project\PopulationReportingSystem\PopulationReportingSystem\obj\x86\Debug\PopulationReportingSystem.exe.manifest
+C:\Users\Mega Providers\Desktop\Project\PopulationReportingSystem\PopulationReportingSystem\obj\x86\Debug\PopulationReportingSystem.application
