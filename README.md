@@ -69,7 +69,7 @@ This system has been built using **C#** as the primary programming language, wit
 - The workflows ensure that code is automatically built and tested before merging into the main branch.
 # Use Case Diagram
 
-![Use Case Diagram](C:\Users\Mega Providers\Downloads\graphviz (34).png)
+![Use Case Diagram](assets/use-case-diagram.png)
 
 
 ### Contribution Guidelines
