@@ -67,6 +67,10 @@ This system has been built using **C#** as the primary programming language, wit
 ### GitHub Actions and CI/CD
 - GitHub Actions workflows have been implemented to automate the build process and run tests on each commit.
 - The workflows ensure that code is automatically built and tested before merging into the main branch.
+# Use Case Diagram
+
+![Use Case Diagram](C:\Users\Mega Providers\Downloads\graphviz (34).png)
+
 
 ### Contribution Guidelines
 - Fork the repository to contribute.
