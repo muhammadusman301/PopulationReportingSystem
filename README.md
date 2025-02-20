@@ -67,10 +67,19 @@ This system has been built using **C#** as the primary programming language, wit
 ### GitHub Actions and CI/CD
 - GitHub Actions workflows have been implemented to automate the build process and run tests on each commit.
 - The workflows ensure that code is automatically built and tested before merging into the main branch.
-# Use Case Diagram
+## Use Case Diagram
 
-![Use Case Diagram](assets/use-case-diagram.png)
+Below is the Use Case Diagram for the Population Reporting System:
 
+![Use Case Diagram](assets/images/Use%20Case%20Diagram.png)
+## Description
+This diagram illustrates the relationships between actors and the system's use cases.
+
+## Activity Diagram
+
+Below is the Activity Diagram for the Population Reporting System:
+
+![Activity Diagram](assets/images/Activity%20Diagram.png)
 
 ### Contribution Guidelines
 - Fork the repository to contribute.
