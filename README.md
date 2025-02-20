@@ -69,8 +69,22 @@ This system has been built using **C#** as the primary programming language, wit
 - The workflows ensure that code is automatically built and tested before merging into the main branch.
 ## Use Case Diagram
 
-Below is the Use Case Diagram for the Population Reporting System:
+This project implements a Population Reporting System that is used by multiple actors including Admin and End User. Below is an outline of the system's actors and their use cases:
 
+Admin Actor:
+
+Generate Population Reports: Admin can generate reports for various population data.
+Manage User Access: Admin can manage and modify user access.
+End User Actor:
+
+View Population Reports: End users can view population data by country, city, region, and capital city.
+Request Top N Population Data: End users can request population data for top N populated countries or cities.
+System Actor:
+
+Generate Top N Population Reports: System generates the requested top N populated countries, cities, or capital cities.
+Provide Data Breakdown: The system provides detailed population breakdowns, including the number of people living in cities and outside of cities.
+Below is the Use Case Diagram for the Population Reporting System:
+![Use Case Diagram](UseCase.png)
 ![Use Case Diagram](Use%20Case%20Diagram.png)
 ## Description
 This diagram illustrates the relationships between actors and the system's use cases.
